@@ -1,4 +1,4 @@
-Dash Core staging tree 0.12
+Dash Core staging tree 0.12 / Test
 ===============================
 
 https://www.dashpay.io
